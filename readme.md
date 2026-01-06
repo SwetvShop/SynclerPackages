@@ -2,9 +2,9 @@
 
 The following Syncler v2 vendor manifests are available to be configured:
 
-## Syncler v2:
+## Syncler Version 2:
 
-* [Vendor Manifest — Hybrid](https://SwetvShop.github.io/SynclerPackages/@config/?id=vendor-hybrid)
+* [Vendor Manifest — Hybrid](https://syn.swetv.shop/@config/?id=vendor-hybrid)
 
 ---
 
