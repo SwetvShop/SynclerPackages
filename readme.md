@@ -1,4 +1,4 @@
-![SweTV](@config/logo.png)
+![SweTV](@config/logo.png){width=50 height=50}
 
 # Configure Your Package:
 
